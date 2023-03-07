@@ -18,4 +18,4 @@ The Contact page will have a contact form for the user to contact me directly or
 The Saved articles page is where the users saved articles will apear to read later. The user must save the articles by clicking the save icon on the article located on the landing page.
 
 # Section 3: Credits
-Currently I am the sole auther of this web page you can find more of my work ising this link 
+Currently I am the sole auther of this web page you can find more of my work ising this link https://github.com/FROST113
